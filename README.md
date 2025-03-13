@@ -93,7 +93,7 @@
 
 ## 🚀 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshushekhar1982&theme=react-dark" alt="GitHub Activity Graph" />
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/api?username=sudhanshushekhar1982&theme=react-dark)
 </p>
 
 ---
