@@ -23,7 +23,7 @@
 🚀 Passionate **Full Stack Developer** skilled in **MERN Stack, Java, DSA**, and **Cloud Technologies**.  
 💡 Building impactful projects like **Wanderlust (an Airbnb-inspired travel platform)** and **Freelancing Opportunities for India**.  
 💻 Love solving **DSA problems (200+ LeetCode streak!)** and designing **scalable** backend systems.  
-🏆 **Finalist at Smart Bengal Hackathon, Smart India Hackathon & Smart Bengal Hackathon**.  
+🏆 **Finalist at Smart Bengal Hackathon, Smart India Hackathon**.  
 💡 **Mentor at GSSoC'24** | **INSPIRE Scholar** | **GitHub Enthusiast**  
 
 ---
@@ -62,8 +62,6 @@
 
 ---
 
----
-
 ## 🎯 Achievements & Experience 🎖️
 - 🏆 **200+ Days Streak on LeetCode** (Consistently solving DSA problems)
 - 👨‍🏫 **Mentor at GirlScript Summer of Code 2024** (Guiding new developers)
@@ -93,7 +91,7 @@
 
 ## 🚀 GitHub Contribution Graph
 <p align="center">
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/api?username=sudhanshushekhar1982&theme=react-dark)
+  <img src="https://github-readme-activity-graph.vercel.app/api?username=sudhanshushekhar1982&theme=react-dark" />
 </p>
 
 ---
@@ -102,4 +100,3 @@
 <p align="center">
   If you have exciting ideas or projects, feel free to reach out to me! Let's build something amazing together. 🚀
 </p>
-
