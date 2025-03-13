@@ -18,7 +18,7 @@
 <h2 align="center">✨ About Me ✨</h2>
 <p align="center">
   🌟 I am an enthusiastic <b>Full Stack Developer</b> with expertise in the <b>MERN Stack</b>, backend systems, and cloud integrations.  
-  🚀 Currently working on creating impactful projects like <b>Wanderlust</b> and a <b>freelancing platform for India</b>.  
+  🚀 Currently working on impactful projects like <b>Wanderlust</b> and a <b>freelancing platform for India</b>.  
   🎯 Striving to deliver seamless user experiences through innovative solutions!  
 </p>
 
@@ -55,6 +55,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sudhanshushekhar1982&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshushekhar1982&theme=radical" alt="GitHub Streak" height="150" />
 </div>
+
+---
+
+## 🚀 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sudhanshushekhar1982&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
