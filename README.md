@@ -1,10 +1,14 @@
-![Header](https://github.com/sudhanshushekhar1982/sudhanshushekhar1982/blob/main/github-header-image.png)
+![GitHub Header](https://github.com/sudhanshushekhar1982/sudhanshushekhar1982/blob/main/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm <span style="color: #4CAF50;">Sudhanshu Shekhar</span></h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India 🌏</h3>
+<h1 align="center">Hi 👋, I'm <span style="color: #4CAF50">Sudhanshu Shekhar</span></h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Problem Solver | Tech Enthusiast 🔥</h3>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</p>
+
+<p align="center">
+  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 ---
@@ -15,18 +19,18 @@
 
 ---
 
-<h2 align="center">✨ About Me ✨</h2>
-<p align="center">
-  🌟 I am an enthusiastic <b>Full Stack Developer</b> with expertise in the <b>MERN Stack</b>, backend systems, and cloud integrations.  
-  🚀 Currently working on impactful projects like <b>Wanderlust</b> and a <b>freelancing platform for India</b>.  
-  🎯 Striving to deliver seamless user experiences through innovative solutions!  
-</p>
+## ✨ About Me ✨
+🚀 Passionate **Full Stack Developer** skilled in **MERN Stack, Java, DSA**, and **Cloud Technologies**.  
+💡 Building impactful projects like **Wanderlust (an Airbnb-inspired travel platform)** and **Freelancing Opportunities for India**.  
+💻 Love solving **DSA problems (200+ LeetCode streak!)** and designing **scalable** backend systems.  
+🏆 **Finalist at Smart Bengal Hackathon, Smart India Hackathon & Smart Bengal Hackathon**.  
+💡 **Mentor at GSSoC'24** | **INSPIRE Scholar** | **GitHub Enthusiast**  
 
 ---
 
-<h2 align="center">🌟 Connect with Me 🌟</h2>
+## 📬 Connect with Me 🌟
 <p align="center">
-  <a href="https://www.linkedin.com/in/sudhanshu-shekhar-734773275" target="_blank">
+  <a href="https://www.linkedin.com/in/sudhanshushekhar1982" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/shekharsudhanshu" target="_blank">
@@ -35,66 +39,72 @@
   <a href="https://github.com/sudhanshushekhar1982" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:shekhar847411@gmail.com" target="_blank">
+  <a href="mailto:shekhar.sudhanshu1982@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">⚙️ Languages & Tools ⚙️</h2>
+## 🚀 Skills & Tech Stack 🚀
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,java,linux,mysql,bootstrap,aws" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,java,linux,mysql,python,docker,aws,bootstrap,git" />
 </p>
 
 ---
 
-<h2 align="center">📈 GitHub Stats 📈</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshushekhar1982&layout=compact&theme=radical" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshushekhar1982&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshushekhar1982&theme=radical" alt="GitHub Streak" height="150" />
-</div>
+## 📈 GitHub Stats 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshushekhar1982&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshushekhar1982&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshushekhar1982&theme=radical" alt="GitHub Streak" height="180">
+</p>
+
+---
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshushekhar1982&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🎯 Achievements & Experience 🎖️
+- 🏆 **200+ Days Streak on LeetCode** (Consistently solving DSA problems)
+- 👨‍🏫 **Mentor at GirlScript Summer of Code 2024** (Guiding new developers)
+- 🏅 **Finalist at Smart Bengal Hackathon** (Led a winning team in an innovative hackathon)
+- 🏆 **INSPIRE Scholarship Awardee** (Top 1% ISC 2021 Performer)
+- 🏆 **Gold Medalist in International Mathematics Olympiad (IMO)**
+- 🏅 **Unstop Campus Ambassador & Student Executive**
+- 🏆 **House Captain - Sam House (M N JHA DAV Public School, Jhanjharpur)**
+
+---
+
+## 🌟 Projects 🌟
+📌 **[Wanderlust (2024)](https://github.com/sudhanshushekhar1982/wanderlust)**: A full-stack **Airbnb-inspired** web app using **MERN stack** + **Mapbox & Cloudinary**.   
+📌 **[Freelancing Opportunities for India](https://github.com/sudhanshushekhar1982/taskforge)**: A **MERN-based freelancing platform** for Indian job seekers.  
+📌 **[Automatic Routine Generator](https://github.com/sudhanshushekhar1982/routine-generator)**: A web app for auto-generating optimized school/university schedules.  
+
+---
+
+## 💡 Fun Facts 💡
+- ♟️ Chess Enthusiast 🏁  
+- 🔍 Always exploring **new technologies**  
+- 📝 Active **Tech Blogger & GitHub Contributor**  
+- 🎨 Passion for **UI/UX Design**  
+- 🚀 Space & Science Fiction Lover  
 
 ---
 
 ## 🚀 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sudhanshushekhar1982&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshushekhar1982&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-<h2 align="center">🎯 Achievements & Highlights 🎯</h2>
-<ul>
-  <li>🏅 <b>200+ Day LeetCode Streak</b> with a strong focus on problem-solving.</li>
-  <li>💡 <b>Mentor at GirlScript Summer of Code</b>, guiding aspiring developers.</li>
-  <li>🚀 <b>Finalist at Smart Bengal Hackathon</b>, leading a dynamic team.</li>
-  <li>🌟 <b>INSPIRE Scholarship</b> recipient for academic excellence.</li>
-  <li>🏆 Gold Medalist in the <b>International Mathematics Olympiad</b>.</li>
-</ul>
-
----
-
-<h2 align="center">🚀 Current Projects 🚀</h2>
-<ul>
-  <li>🌍 <b>Wanderlust</b>: A full-stack travel platform inspired by Airbnb.</li>
-  <li>📈 <b>Freelancing Opportunities for India</b>: A robust platform for connecting freelancers with clients.</li>
-  <li>📅 <b>Automatic Routine Generator</b>: A scheduling tool for educational institutions.</li>
-</ul>
-
----
-
-<h2 align="center">💡 Fun Facts 💡</h2>
-<ul>
-  <li>♟️ I enjoy solving chess puzzles in my free time.</li>
-  <li>🎨 Passionate about creating intuitive UI designs.</li>
-  <li>💻 Constantly exploring new technologies and trends.</li>
-</ul>
-
----
-
-<h2 align="center">🌐 Let's Collaborate 🌐</h2>
+## 💬 Let's Collaborate! 🚀
 <p align="center">
-  If you have exciting ideas or projects, feel free to reach out to me! Let's make something amazing together. 🚀
+  If you have exciting ideas or projects, feel free to reach out to me! Let's build something amazing together. 🚀
 </p>
+
