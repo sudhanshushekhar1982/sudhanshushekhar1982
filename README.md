@@ -100,3 +100,4 @@
 <p align="center">
   If you have exciting ideas or projects, feel free to reach out to me! Let's build something amazing together. 🚀
 </p>
+[![An image of @sudhanshushekhar1982's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshushekhar1982)](https://holopin.io/@sudhanshushekhar1982)
