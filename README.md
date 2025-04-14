@@ -96,8 +96,16 @@
 
 ---
 
+## 🏅 Holopin Badge Wall
+<p align="center">
+  <a href="https://holopin.io/@sudhanshushekhar1982" target="_blank">
+    <img src="https://holopin.me/sudhanshushekhar1982" alt="Holopin Badges" />
+  </a>
+</p>
+
+---
+
 ## 💬 Let's Collaborate! 🚀
 <p align="center">
   If you have exciting ideas or projects, feel free to reach out to me! Let's build something amazing together. 🚀
 </p>
-[![Holopin Badges](https://holopin.me/sudhanshushekhar1982)](https://holopin.io/@sudhanshushekhar1982)
