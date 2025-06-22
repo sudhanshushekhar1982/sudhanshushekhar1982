@@ -87,14 +87,6 @@
 - 🎨 Passion for **UI/UX Design**  
 - 🚀 Space & Science Fiction Lover  
 
----
-
-## 🚀 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api?username=sudhanshushekhar1982&theme=react-dark" />
-</p>
-
----
 
 ## 🏅 Holopin Badge Wall
 <p align="center">
