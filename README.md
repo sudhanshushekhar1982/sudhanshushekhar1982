@@ -87,7 +87,7 @@
 - 🎨 Passion for **UI/UX Design**  
 - 🚀 Space & Science Fiction Lover  
 📌 **Quote of the Day:**  
-<!--QUOTE-->
+💡 Quote of the Day:  <!--QUOTE-->
 
 ## 🏅 Holopin Badge Wall
 <p align="center">
