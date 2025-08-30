@@ -1,0 +1,27 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at 00:00 UTC
+  workflow_dispatch:       # Lets you trigger manually if needed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get Quote
+        run: |
+          quote=$(curl -s https://api.quotable.io/random | jq -r '.content')
+          echo "💡 Quote of the Day: $quote" > quote.txt
+          sed -i "s|<!--QUOTE-->|💡 Quote of the Day: $quote|g" README.md
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update daily quote"
+          git push
