@@ -17,8 +17,8 @@ jobs:
 
       - name: Fetch Random Quote
         run: |
-          quote=$(curl -s https://api.quotable.io/random | grep -o '"content":"[^"]*' | cut -d'"' -f4)
-          echo "Quote: $quote"
+          quote=$(curl -s https://api.quotable.io/random | jq -r '.content + " — " + .author')
+          echo "Fetched Quote: $quote"
           sed -i "/<!--QUOTE-->/c\💡 Quote of the Day: $quote <!--QUOTE-->" README.md
 
       - name: Commit & Push
