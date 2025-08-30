@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # Runs daily at midnight UTC
   workflow_dispatch:       # Manual trigger
 
+permissions:
+  contents: write   # ✅ allow pushing changes
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -16,7 +19,6 @@ jobs:
         run: |
           quote=$(curl -s https://api.quotable.io/random | grep -o '"content":"[^"]*' | cut -d'"' -f4)
           echo "Quote: $quote"
-          # Replace the line between QUOTE markers
           sed -i "/<!--QUOTE-->/c\💡 Quote of the Day: $quote <!--QUOTE-->" README.md
 
       - name: Commit & Push
