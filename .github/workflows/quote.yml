@@ -2,8 +2,8 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at 00:00 UTC
-  workflow_dispatch:       # Lets you trigger manually if needed
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:       # Manual trigger
 
 jobs:
   update-readme:
@@ -12,16 +12,17 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Get Quote
+      - name: Fetch Random Quote
         run: |
-          quote=$(curl -s https://api.quotable.io/random | jq -r '.content')
-          echo "💡 Quote of the Day: $quote" > quote.txt
-          sed -i "s|<!--QUOTE-->|💡 Quote of the Day: $quote|g" README.md
+          quote=$(curl -s https://api.quotable.io/random | grep -o '"content":"[^"]*' | cut -d'"' -f4)
+          echo "Quote: $quote"
+          # Replace the line between QUOTE markers
+          sed -i "/<!--QUOTE-->/c\💡 Quote of the Day: $quote <!--QUOTE-->" README.md
 
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update daily quote"
+          git commit -m "Update daily quote" || echo "No changes to commit"
           git push
