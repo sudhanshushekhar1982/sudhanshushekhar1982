@@ -99,5 +99,5 @@
 
 ## 💬 Let's Collaborate! 🚀
 <p align="center">
-  If you have exciting ideas or projects, feel free to reach out to me! Let's build something amazing together. 🚀
+  If you have exciting ideas or projects, please feel free to reach out to me! Let's build something amazing together. 🚀
 </p>
