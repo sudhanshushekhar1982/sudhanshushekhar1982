@@ -1,7 +1,7 @@
 ![GitHub Header](https://github.com/sudhanshushekhar1982/sudhanshushekhar1982/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm <span style="color: #4CAF50">Sudhanshu Shekhar</span></h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | M-L Enthusiast | Tech Enthusiast 🔥</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | M-L Enthusiast | Problem Solver 🔥</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
