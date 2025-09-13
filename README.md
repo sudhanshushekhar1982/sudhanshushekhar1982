@@ -21,7 +21,7 @@
 
 ## ✨ About Me ✨
 🚀 Passionate **Full Stack Developer** skilled in **MERN Stack, Java, DSA**, and **Cloud Technologies**.  
-💡 Building impactful projects like **Wanderlust (an Airbnb-inspired travel platform)** and **Freelancing Opportunities for India**.  
+💡 Building impactful projects like **Wanderlust (an Airbnb-inspired travel platform)** and **SimuFlow - the standard for measurement**.  
 💻 Love solving **DSA problems (300+ LeetCode Qns!)** and designing **scalable** backend systems.  
 🏆 **Finalist at Smart Bengal Hackathon, Smart India Hackathon, IEEE - IAYPC AIORI-1 HACKATHON WINNER**.  
 💡 **Mentor at GSSoC'24** | **INSPIRE Scholar** | **GitHub Enthusiast**  
