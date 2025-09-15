@@ -65,6 +65,7 @@
 ## 🎯 Achievements & Experience 🎖️
 - 🏆 **200+ Days Streak on LeetCode** (Consistently solving DSA problems)
 - 👨‍🏫 **Mentor at GirlScript Summer of Code 2024** (Guiding new developers)
+- 🏅 **Runners up at AIORI - 1** (Got a paid internship due to my project)
 - 🏅 **Finalist at Smart Bengal Hackathon** (Led a winning team in an innovative hackathon)
 - 🏆 **INSPIRE Scholarship Awardee** (Top 1% ISC 2021 Performer)
 - 🏆 **Gold Medalist in International Mathematics Olympiad (IMO)**
